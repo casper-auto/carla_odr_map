@@ -1,0 +1,9 @@
+Header header
+odr_map_msgs/MapBasepath[] basepaths
+odr_map_msgs/MapLane[] lanes
+odr_map_msgs/MapBoundary[] boundaries
+odr_map_msgs/MapTrafficLight[] traffic_lights
+odr_map_msgs/MapCrosswalk[] crosswalks
+odr_map_msgs/MapStopLine[] stop_lines
+odr_map_msgs/MapRoadGuard[] road_guards
+odr_map_msgs/MapTrafficSign[] traffic_signs
