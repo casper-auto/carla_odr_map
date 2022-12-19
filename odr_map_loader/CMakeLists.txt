@@ -31,21 +31,3 @@ add_executable(odr_map_loader
 target_link_libraries(odr_map_loader
   ${catkin_LIBRARIES}
 )
-
-# odr_map_path_finder
-add_executable(odr_map_path_finder
-  src/odr_map_path_finder.cpp
-)
-
-target_link_libraries(odr_map_path_finder
-  ${catkin_LIBRARIES}
-)
-
-# traffic_info_loader
-add_executable(traffic_info_loader
-  src/traffic_info_loader.cpp
-)
-
-target_link_libraries(traffic_info_loader
-  ${catkin_LIBRARIES}
-)
